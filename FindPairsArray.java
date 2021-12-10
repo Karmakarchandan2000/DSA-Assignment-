@@ -20,6 +20,6 @@ if ((arr[i] + arr[j]) == sum)
 System.out.println("Pairs "+ arr[i] +" "+ arr[j]);
 count++;
 }
-System.out.println("Count of pairs is %d"+ count);
+System.out.println("Count of pairs is : "+ count);
 }
 }
