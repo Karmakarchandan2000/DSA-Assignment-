@@ -1,6 +1,6 @@
 package com.DSAssignment;
-public class Main {
-    static void HanoiAlgorithm(int n, char from_rod, char to_rod, char helper_rod)
+public class HanoiAlgorithm {
+   public static void main(int n, char from_rod, char to_rod, char helper_rod)
     {
         if (n == 1)
         {
